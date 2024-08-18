@@ -1,7 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQFfhTEictqBHA/article-cover_image-shrink_720_1280/0/1716965604025?e=2147483647&v=beta&t=QQbiRZaZNurRKVw6bW1J0hG5x2f-7PMAowmfdFF3Dz4 height="200px")]()
+
 
 <h1 align="center">Hi 👋, I'm AVIK KUMAR DAS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FRONTEND DEVELOPER from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikkumardas666&label=Profile%20views&color=0e75b6&style=flat" alt="avikkumardas666" /> </p>
